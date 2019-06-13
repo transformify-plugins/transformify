@@ -1,2 +1,4 @@
 # transformify
-Python image transform library
+Python image transform plugin
+
+#### **Development Status :: Planning**
